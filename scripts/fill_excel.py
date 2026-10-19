@@ -22,3 +22,7 @@ try:
 except Exception as e:
     print("Fehler:")
     print(e)
+
+
+# Erstelle eine Funktion die eine Excel-Datei öffnet
+# und die erste Zeile ausgibt
