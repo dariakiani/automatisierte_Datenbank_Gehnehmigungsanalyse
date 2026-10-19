@@ -1,1 +1,1 @@
-print("Genehmigungsanalyse gestartet")
+print("Excel-Datei wird geprüft...")
